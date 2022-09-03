@@ -1,3 +1,5 @@
+let &runtimepath='$HOME/Source/dotfiles/nvim'
+
 call plug#begin()
 " The default plugin directory will be as follows:
 "   - Vim (Linux/macOS): '~/.vim/plugged'
